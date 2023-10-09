@@ -1,0 +1,67 @@
+.row-items {
+    display:flex;
+    flex-direction:row;
+    justify-content: flex-start; 
+    gap: 20px;
+}
+
+#individualBox {
+    border: 0.5px solid;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    max-width: 20vw;
+    max-height: 8vw;
+    border-radius: 5%;
+    border-color: white;
+    border-width: 2px;
+    background-color: white;
+
+}
+
+#CollectionBoxes {
+    min-width: 20vw;
+    max-width: 20vw;
+    min-height: 100vh;
+}
+
+#individualElements {
+    margin-left: 6px;
+    display: flex;
+}
+
+img {
+    height: 20px;
+    width: 20px;
+    margin-left: 25px;
+    margin-top: 22px;
+}
+
+#imageAndTitle {
+    text-align: justify;
+    display: flex;
+}
+.cautionary_f
+{
+   display: flex;
+}
+.cau 
+{
+    margin-top: 3px;
+    margin-right: 2px;
+}
+.Plus_Three
+{
+    margin-left: 45px;
+    display: flex;
+    gap: 0px;
+}
+.three_d{
+   margin-left: 10px;
+}
+.Human_text
+{
+    margin-left: 5px;
+}

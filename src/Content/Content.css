@@ -1,0 +1,7 @@
+.ContentMainDiv {
+    background-color: rgb(246, 248, 249);
+    text-emphasis-color: white;
+    margin-top: 10px;
+    position: absolute;
+    justify-content: space-between;
+ }
