@@ -20,12 +20,12 @@ To run the Kanban Board project locally, follow these steps:
    ```bash
    npm install
 
-##Usage
+## Usage
 
 To use the Kanban Board application,
 
 Run npm start
 
-##Contributing
+## Contributing
 
 Contributions to the project are welcome! Fork the repository, make improvements or add new features, and submit pull requests to contribute to the project's development.
