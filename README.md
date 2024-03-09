@@ -10,7 +10,7 @@ The Kanban Board project is a web-based application designed to facilitate task 
 2. CSS
 3. javaScript
 4. Frontend FrameWorks : Reactjs
-5. 
+
 ## Installation
 
 To run the Kanban Board project locally, follow these steps:
