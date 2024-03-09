@@ -2,7 +2,7 @@
 
 ## Project Description
 
-The Kanban Board project is a web-based application designed to facilitate task management using the Kanban methodology. It provides users with a visual representation of their workflow, allowing them to organize tasks into customizable boards and move them through various stages of completion. Leveraging web technologies such as HTML, CSS, and JavaScript, along with backend technologies like Node.js and Express.js, the application offers a user-friendly interface for efficient task tracking and collaboration.
+The Kanban Board project is a web-based application designed to facilitate task management using the Kanban methodology. It provides users with a visual representation of their workflow,as given in the API(https://api.quicksell.co/v1/internal/frontend-assignment). Leveraging web technologies such as HTML, CSS, and JavaScript, the application offers a user-friendly interface for efficient task tracking and collaboration.
 
 ## Dependencies
 
@@ -25,6 +25,7 @@ To run the Kanban Board project locally, follow these steps:
 To use the Kanban Board application,
 
 Run npm start
+1. You can select the cards by grouping and ordering
 
 ## Contributing
 
